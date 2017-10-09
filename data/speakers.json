@@ -1,0 +1,400 @@
+{
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Elvis Rivera",
+        "title": "Developer Cardboard",
+        "company": "GDG Lima",
+        "companyLogo": "/images/logos/gdglima.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/erivera.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Cardboard",
+            "VR",
+            "CodeLab"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/elvis.rivera"
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Yury Camacho",
+        "title": "Android Developer",
+        "company": "GDG Cochabamba",
+        "companyLogo": "/images/logos/gdgcocha.png",
+        "country": "Cochabamba, Bolivia",
+        "photoUrl": "/images/people/ycamacho.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Android",
+            "Mobile UX"
+          
+        ],
+        
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/camachoyury"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Sergio Infante",
+        "title": "Senior Developer",
+        "company": "",
+        "companyLogo": "/images/logos/independiente.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/sergio.png",
+        "shortBio": "Senior Developer",
+        "bio": "",
+        "tags": [
+            "Web"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/neosergio"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Mario Inga",
+        "title": "DevOps",
+        "company": "DockerLima",
+        "companyLogo": "/images/logos/dockerlima.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/minga.jpg",
+        "shortBio": "DevOps Developer",
+        "bio": "DevOps",
+        "tags": [
+            
+            "Docker"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/mario21ic"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": true,
+        "name": "Juan Camilo Lema",
+        "title": "UX",
+        "company": "GDE",
+        "companyLogo": "/images/logos/gde.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/jlema.jpg",
+        "shortBio": "UX /UX ",
+        "bio": "",
+        "tags": [
+            "UX",
+            "Design Sprint"
+        ],
+        "badges": [
+         {
+                "name": "GDE",
+                "description": "User Experience Expert",
+                "link": "https://developers.google.com/experts/people/juan-camilo-lema"
+            }
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/jclema"
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Zig Mandel",
+        "title": "Technical Evangelist",
+        "company": "GDE",
+        "companyLogo": "/images/logos/GDE.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/zmandel.jpg",
+        "shortBio": "GDE Technology , Cloud Developer",
+        "bio": "",
+        "tags": [
+            "Cloud",
+            "AppEngine"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Technology Developer Expert",
+                "link": "https://developers.google.com/experts/people/sigmund-zig-mandel"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/zig.mandel"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Jose Manuel Rios Vega",
+        "title": "Desarrollador Android",
+        "company": "AndroidPE",
+        "companyLogo": "/images/logos/androidpe.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/mrios.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+    
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/manumanu.rv"
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "featured": true,
+        "name": "Victoria Ubaldo",
+        "title": "Desarrolladora Web",
+        "company": "WTMLima",
+        "companyLogo": "/images/logos/wtmlima.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/vubaldo.jpg",
+        "shortBio": "Desarrolladora Web y organizadora WTMLima",
+        "bio": "",
+        "tags": [
+            "Web",
+            "Progressive Web Apps"
+          
+        ],
+        "badges": [
+    
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/vicky.ubaldo.5"
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "featured": false,
+        "name": "Jorge Guerra",
+        "title": "Android Developer",
+        "company": "UNMSM",
+        "companyLogo": "/images/logos/unmsm.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/jguerra.jpg",
+        "shortBio": "Docente e Investigador en la Universidad Nacional Mayor San Marcos",
+        "bio": "",
+        "tags": [
+            "Beacons",
+            "Arduino"
+        ],
+        "badges": [
+         
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/mishajorge"
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "featured": true,
+        "name": "Annie Azaña",
+        "title": "Desarrolladora Web",
+        "company": "Laboratoria",
+        "companyLogo": "/images/logos/laboratoria.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/aazana.jpg",
+        "shortBio": "Desarrolladora Web - Laboratoria",
+        "bio": "Desarrolladora Web - Laboratoria",
+        "tags": [
+            "Web",
+            "Angular"
+        ],
+        "badges": [
+           
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/profile.php?id=654487238"
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "featured": false,
+        "name": "Dante Gomez",
+        "title": "Desarrollador",
+        "company": "GDG Juliaca",
+        "companyLogo": "/images/logos/gdgjuliaca.jpg",
+        "country": "Juliaca, Perú",
+        "photoUrl": "/images/people/dgomez.jpg",
+        "shortBio": "Desarrollador y organizador GDG Juliaca",
+        "bio": "",
+        "tags": [
+            "Cloud",
+            "AppEngine"
+        ],
+        "badges": [
+          
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/dante.gomez.37"
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "featured": false,
+        "name": "Melissa Gave",
+        "title": "Developer",
+        "company": "WTM Lima",
+        "companyLogo": "/images/logos/wtmlima.png",
+        "country": "Lima, Peru",
+        "photoUrl": "/images/people/mgave.jpg",
+        "shortBio": "Organizadora WTM Lima",
+        "bio": "Organizadora WTM Lima",
+        "tags": [
+            "Web"
+        ],
+        "badges": [
+           
+        ],
+        "socials": [
+            {
+                "icon": "fa",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/MelissaGaveM"
+            }
+            
+        ]
+    },
+    "13": {
+        "id": 13,
+        "featured": false,
+        "name": "Erik Porroa",
+        "title": "FrontEnd Developer",
+        "company": "FrontEndPe",
+        "companyLogo": "/images/logos/frontpe.png",
+        "country": "Lima, Peru",
+        "photoUrl": "/images/people/eporroa.jpg",
+        "shortBio": "FrontEnd Developer y organizador de FrontEndPe",
+        "bio": "Organizador FrontEndPe",
+        "tags": [
+            "Web"
+        ],
+        "badges": [
+           
+        ],
+        "socials": [
+            {
+                "icon": "fa",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/eporroa"
+            }
+            
+        ]
+    },
+    "14": {
+        "id": 14,
+        "featured": false,
+        "name": "Pablo Johnson ",
+        "title": "Android Developer",
+        "company": "AndroidPE",
+        "companyLogo": "/images/logos/androidpe.png",
+        "country": "Lima, Peru",
+        "photoUrl": "/images/people/pablo.jpg",
+        "shortBio": "Android developer ",
+        "bio": "Android Developer",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+           
+        ],
+        "socials": [
+            {
+                "icon": "fa",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/pablo.johnson88"
+            }
+            
+        ]
+    },
+    "15": {
+        "id": 15,
+        "featured": false,
+        "name": "Diego Velasquez",
+        "title": "Android Developer",
+        "company": "Belatrix",
+        "companyLogo": "/images/logos/belatrix.png",
+        "country": "Lima, Perú",
+        "photoUrl": "/images/people/dvelasquez.jpg",
+        "shortBio": "Android Developer en Belatrix",
+        "bio": "Android Developer en Belatrix",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/diegoveloper"
+            }
+        ]
+    }
+}
