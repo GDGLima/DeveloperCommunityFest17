@@ -139,9 +139,11 @@
                 </div>
               {% endif %}
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
+                <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+                   <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
+                </a>
               </div>
-            </div>
+              </div>
           </div>
         </animatable-content>
         <animatable-content name="blog">

@@ -17,13 +17,16 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "apiKey": "AIzaSyBEu519-L_Gud_g5X6W9ldNvUdzuBzGAUo",
-    "authDomain": "devcommuni.firebaseapp.com",
-    "databaseURL": "https://devcommuni.firebaseio.com",
-    "projectId": "devcommuni",
-    "storageBucket": "devcommuni.appspot.com",
-    "messagingSenderId": "67802155844"
+    "name": "devcommunityfest-33983",
+    "domain": "devcommunityfest-33983.firebaseapp.com",
+    "database": "https://devcommunityfest-33983.firebaseio.com",
+    "api": "AIzaSyAWLZvzL2cv_3FaU2OgMTLu280Q2JEJuIM",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings"
   },
+
+
+
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
@@ -32,7 +35,7 @@
     "locale": "es-ES",
     "blog": {"day": "numeric", "month": "short", "year": "numeric"}
   },
-  "hashtag": "devCF",
+  "hashtag": "gdglimafest17",
   "disqusShortName": "devcommuni-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -42,16 +45,8 @@
       "permalink": "/"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     }
   ],
   "social": [
