@@ -34,7 +34,7 @@
   "organizerTitle": "Organizadores",
   "aboutOrganizers": "<a href='https://www.meetup.com/es-ES/gdglima/' target='_blank'>GDG Lima</a> con el apoyo de grandes comunidades de tecnología, GDG Lima es el organizador de esta edición del Dev Community Fest",
   "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
+  "whatIsGdg": "Qué es un GDG?",
   "aboutGdg": "Google Developers Group (GDG) - es una comunidad geek de voluntarios que crean y comparten emocionantes experiencias sobre las tecnologias de Google",
   "readMore": "Leer más",
   "copyLink": "Copiar link",
@@ -51,10 +51,10 @@
   "offlineMessage": "Tu estas offline",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Para asistentes",
       "links": [
         {
-          "text": "Code of Conduct",
+          "text": "Codigo de Conducta",
           "url": "/cod/",
           "newTab": false
         },
@@ -66,21 +66,6 @@
         {
           "text": "GDG Lima Meetup",
           "url": "https://www.meetup.com/es-ES/gdglima/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "For Partners",
-      "links": [
-        {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
           "newTab": true
         }
       ]

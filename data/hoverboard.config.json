@@ -37,8 +37,6 @@
   },
   "hashtag": "gdglimafest17",
   "disqusShortName": "devcommuni-gdg-x",
-  "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
   "navigation": [
     {
       "route": "home",

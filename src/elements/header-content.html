@@ -70,7 +70,8 @@
       }
 
       .logo {
-        width: 240px;
+        min-width: 240px;
+        max-width: 90%;
         min-height: 80px;
       }
 
@@ -128,8 +129,7 @@
         <animatable-content name="home">
           <div class="container" center-justified>
             <div class="home-wrapper">
-              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="Developer Community Fest"></iron-image>
+              <img src="/images/logo.png" class="logo" alt="Developer Community Fest" />
               <h3 class="dates">{$ dates $}</h3>
               <h2 class="motto">{$ motto $}</h2>
               {% if pages.home.headerSettings.video %}
