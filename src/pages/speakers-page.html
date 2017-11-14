@@ -175,11 +175,7 @@
     <app-route route="{{route}}"
                pattern="/:speakerId"
                data="{{routeData}}"></app-route>
-    <div class="container speakers-container">
-      <h2 class="heading">Cargando...</h2>
-      <p>Pronto tendrás novedades sobre los grandes expositores que nos acompañarán en el Community Dev Fest, keep in touch!</p>
-    </div>
-    <!--
+
     <div class="container speakers-container">
       <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="updateCascadedNodes">
         <div class="speaker" cascaded>
@@ -224,7 +220,7 @@
         </div>
       </template>
     </div>
-  -->
+  
     <footer-block app="{{app}}" cascaded></footer-block>
 
     <speaker-details id="speakerDetails"
