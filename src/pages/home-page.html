@@ -28,16 +28,15 @@
     <countdown-block app="{{app}}" cascaded></countdown-block>
 
     <statistics-block app="{{app}}" cascaded></statistics-block>
-    <!--
+    
     <featured-people app="{{app}}" people="{{people}}" cascaded></featured-people>
-    -->
     {% if videosSessionsUrl %}
       <featured-videos app="{{app}}" cascaded></featured-videos>
     {% endif %}
     {% if callToAction %}
       <call-to-action app="{{app}}" cascaded></call-to-action>
     {% endif %}
-    <about-block app="{{app}}" cascaded></about-block>
+   <!-- <about-block app="{{app}}" cascaded></about-block>-->
     {% if gallery %}
       <photo-block app="{{app}}" cascaded></photo-block>
     {% endif %}
